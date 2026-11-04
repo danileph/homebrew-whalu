@@ -7,7 +7,7 @@ cask "whalu" do
   desc "Window navigation and tiling for macOS"
   homepage "https://danileph.github.io/whalu/"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Whalu.app"
 end
