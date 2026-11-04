@@ -1,6 +1,6 @@
 cask "whalu" do
-  version "0.5.1"
-  sha256 "f7cb2712a5d5ea3dff2df96a2ce0a4d86a8ed0702210dbc29432b0669f6bc85c"
+  version "0.6.0"
+  sha256 "c1a293f89aa7d6be9d3cc6e0641a163f59e8530b40acbebf508f27493dc3202f"
 
   url "https://github.com/danileph/whalu/releases/download/v#{version}/Whalu-macOS-universal.zip"
   name "Whalu"
